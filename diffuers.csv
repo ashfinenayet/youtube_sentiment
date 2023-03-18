@@ -1,0 +1,467 @@
+,text,anger,fear,anticipation,trust,surprise,sadness,joy,disgust
+0,"Point number one: When you hear someone longing
+for the “good old days,” take it with a grain of salt",0.0,0.0,0.2857142857142857,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0
+1, Take it with a grain of salt,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2," We live in a great nation and we are rightly
+proud of our history",0.0,0.0,0.16666666666666666,0.3333333333333333,0.0,0.0,0.16666666666666666,0.0
+3," We are beneficiaries of the labor and the
+grit and the courage of generations who came before",0.0,0.0,0.125,0.25,0.125,0.0,0.125,0.0
+4," But I guess it’s part of human nature, especially
+in times of change and uncertainty, to want to look backwards and long for some imaginary
+past when everything worked, and the economy hummed, and all politicians were wise, and
+every child was well-mannered, and America pretty much did whatever it wanted around
+the world",0.0,0.07142857142857142,0.21428571428571427,0.14285714285714285,0.07142857142857142,0.0,0.14285714285714285,0.07142857142857142
+5, Guess what,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6, It ain’t so,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7, The “good old days” weren’t that good,0.0,0.0,0.2,0.2,0.2,0.0,0.2,0.0
+8," Yes, there have been some stretches in our
+history where the economy grew much faster, or when government ran more smoothly",0.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+9," There were moments when, immediately after
+World War II, for example, or the end of the Cold War, when the world bent more easily
+to our will",0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0
+10," But those are sporadic, those moments, those
+episodes",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+11," In fact, by almost every measure, America
+is better, and the world is better, than it was 50 years ago, or 30 years ago, or even
+eight years ago",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+12," And by the way, I’m not — set aside 150
+years ago, pre-Civil War — there’s a whole bunch of stuff there we could talk about",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13," Set aside life in the ‘50s, when women and
+people of color were systematically excluded from big chunks of American life",0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333
+14," Since I graduated, in 1983 — which isn’t
+that long ago — I’m just saying",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+15," Since I graduated, crime rates, teenage pregnancy,
+the share of Americans living in poverty — they’re all down",0.15384615384615385,0.07692307692307693,0.07692307692307693,0.07692307692307693,0.0,0.07692307692307693,0.07692307692307693,0.15384615384615385
+16," The share of Americans with college educations
+have gone way up",0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+17," Our life expectancy has, as well",0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+18," Blacks and Latinos have risen up the ranks
+in business and politics",1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+19, More women are in the workforce,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+20," They’re earning more money — although
+it’s long past time that we passed laws to make sure that women are getting the same
+pay for the same work as men",0.08333333333333333,0.0,0.3333333333333333,0.16666666666666666,0.08333333333333333,0.0,0.16666666666666666,0.0
+21," Meanwhile, in the eight years since most of
+you started high school, we’re also better off",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+22," You and your fellow graduates are entering
+the job market with better prospects than any time since 2007",0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0
+23," Twenty million more Americans know the financial
+security of health insurance",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+24, We’re less dependent on foreign oil,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+25, We’ve doubled the production of clean energy,0.0,0.0,0.2,0.2,0.0,0.0,0.2,0.0
+26, We have cut the high school dropout rate,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+27, We’ve cut the deficit by two-thirds,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28, Marriage equality is the law of the land,0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.0
+29," And just as America is better, the world is
+better than when I graduated",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+30," Since I graduated, an Iron Curtain fell, apartheid
+ended",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+31, There’s more democracy,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+32," We virtually eliminated certain diseases like
+polio",0.0,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+33, We’ve cut extreme poverty drastically,0.2,0.2,0.0,0.0,0.0,0.2,0.0,0.2
+34," We’ve cut infant mortality by an enormous
+amount",0.1111111111111111,0.2222222222222222,0.1111111111111111,0.0,0.1111111111111111,0.1111111111111111,0.1111111111111111,0.0
+35," Now, I say all these things not to make you
+complacent",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+36, We’ve got a bunch of big problems to solve,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+37," But I say it to point out that change has
+been a constant in our history",0.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+38," And the reason America is better is because
+we didn’t look backwards we didn’t fear the future",0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.16666666666666666
+39, We seized the future and made it our own,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+40," And that’s exactly why it’s always been
+young people like you that have brought about big change — because you don’t fear the
+future",0.1,0.2,0.1,0.1,0.1,0.0,0.1,0.0
+41," That leads me to my second point: The world
+is more interconnected than ever before, and it’s becoming more connected every day",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+42, Building walls won’t change that,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+43," Look, as President, my first responsibility
+is always the security and prosperity of the United States",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+44," And as citizens, we all rightly put our country
+first",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+45," But if the past two decades have taught us
+anything, it’s that the biggest challenges we face cannot be solved in isolation",0.0,0.0,0.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0
+46," When overseas states start falling apart,
+they become breeding grounds for terrorists and ideologies of nihilism and despair that
+ultimately can reach our shores",0.09090909090909091,0.09090909090909091,0.18181818181818182,0.0,0.0,0.18181818181818182,0.0,0.09090909090909091
+47," When developing countries don’t have functioning
+health systems, epidemics like Zika or Ebola can spread and threaten Americans, too",0.16666666666666666,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.0
+48, And a wall won’t stop that,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+49," If we want to close loopholes that allow large
+corporations and wealthy individuals to avoid paying their fair share of taxes, we’ve
+got to have the cooperation of other countries in a global financial system to help enforce
+financial laws",0.07142857142857142,0.14285714285714285,0.07142857142857142,0.21428571428571427,0.0,0.0,0.07142857142857142,0.0
+50," The point is, to help ourselves we’ve got
+to help others — not pull up the drawbridge and try to keep the world out",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+51," And engagement does not just mean deploying
+our military",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+52," There are times where we must take military
+action to protect ourselves and our allies, and we are in awe of and we are grateful for
+the men and women who make up the finest fighting force the world has ever known",0.2222222222222222,0.2222222222222222,0.0,0.0,0.0,0.0,0.0,0.0
+53," But I worry if we think that the entire burden
+of our engagement with the world is up to the 1 percent who serve in our military, and
+the rest of us can just sit back and do nothing",0.0,0.25,0.125,0.125,0.0,0.125,0.0,0.0
+54, They can’t shoulder the entire burden,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+55," And engagement means using all the levers
+of our national power, and rallying the world to take on our shared challenges",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+56," You look at something like trade, for example",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+57," We live in an age of global supply chains,
+and cargo ships that crisscross oceans, and online commerce that can render borders obsolete",0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+58," And a lot of folks have legitimate concerns
+with the way globalization has progressed — that’s one of the changes that’s been
+taking place — jobs shipped overseas, trade deals that sometimes put workers and businesses
+at a disadvantage",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+59," But the answer isn’t to stop trading with
+other countries",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+60," In this global economy, that’s not even
+possible",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+61," The answer is to do trade the right way, by
+negotiating with other countries so that they raise their labor standards and their environmental
+standards; and we make sure they don’t impose unfair tariffs on American goods or steal
+American intellectual property",0.1111111111111111,0.05555555555555555,0.05555555555555555,0.16666666666666666,0.05555555555555555,0.1111111111111111,0.05555555555555555,0.05555555555555555
+62," That’s how we make sure that international
+rules are consistent with our values — including human rights",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+63," And ultimately, that’s how we help raise
+wages here in America",0.0,0.0,0.25,0.0,0.0,0.0,0.25,0.0
+64," That’s how we help our workers compete on
+a level playing field",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+65, Building walls won’t do that,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+66," It won’t boost our economy, and it won’t
+enhance our security either",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+67," Isolating or disparaging Muslims, suggesting
+that they should be treated differently when it comes to entering this country — that
+is not just a betrayal of our values — that’s not just a betrayal of who we are, it would
+alienate the very communities at home and abroad who are our most important partners
+in the fight against violent extremism",0.23076923076923078,0.07692307692307693,0.0,0.038461538461538464,0.07692307692307693,0.11538461538461539,0.0,0.19230769230769232
+68," Suggesting that we can build an endless wall
+along our borders, and blame our challenges on immigrants — that doesn’t just run
+counter to our history as the world’s melting pot; it contradicts the evidence that our
+growth and our innovation and our dynamism has always been spurred by our ability to
+attract strivers from every corner of the globe",0.14285714285714285,0.07142857142857142,0.0,0.07142857142857142,0.0,0.07142857142857142,0.07142857142857142,0.07142857142857142
+69, That’s how we became America,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+70, Why would we want to stop it now? AUDIENCE MEMBER: Four more years! Can’t do it,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+71," Which brings me to my third point: Facts,
+evidence, reason, logic, an understanding of science — these are good things",0.0,0.0,0.125,0.25,0.125,0.0,0.125,0.0
+72," These are qualities you want in people making
+policy",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+73," These are qualities you want to continue to
+cultivate in yourselves as citizens",0.0,0.0,0.3333333333333333,0.3333333333333333,0.0,0.0,0.0,0.0
+74, That might seem obvious,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+75, That’s why we honor Bill Moyers or Dr,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+76, Burnell,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+77, We traditionally have valued those things,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+78," But if you were listening to today’s political
+debate, you might wonder where this strain of anti-intellectualism came from",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+79," So, Class of 2016, let me be as clear as I
+can be",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+80," In politics and in life, ignorance is not
+a virtue",0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+81," It’s not cool to not know what you’re
+talking about",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+82," That’s not keeping it real, or telling it
+like it is",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+83, That’s not challenging political correctness,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+84," That’s just not knowing what you’re talking
+about",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+85," And yet, we’ve become confused about this",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+86," Look, our nation’s Founders — Franklin,
+Madison, Hamilton, Jefferson — they were born of the Enlightenment",0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+87," They sought to escape superstition, and sectarianism,
+and tribalism, and no-nothingness",0.0,0.2857142857142857,0.14285714285714285,0.0,0.0,0.0,0.0,0.0
+88," They believed in rational thought and experimentation,
+and the capacity of informed citizens to master our own fates",0.0,0.0,0.2,0.4,0.0,0.0,0.0,0.0
+89, That is embedded in our constitutional design,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+90," That spirit informed our inventors and our
+explorers, the Edisons and the Wright Brothers, and the George Washington Carvers and the
+Grace Hoppers, and the Norman Borlaugs and the Steve Jobses",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+91, That’s what built this country,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+92," And today, in every phone in one of your pockets
+— we have access to more information than at any time in human history, at a touch of
+a button",0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+93," But, ironically, the flood of information
+hasn’t made us more discerning of the truth",0.0,0.25,0.0,0.25,0.0,0.0,0.0,0.0
+94," In some ways, it’s just made us more confident
+in our ignorance",0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+95, We assume whatever is on the web must be true,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.3333333333333333,0.0
+96," We search for sites that just reinforce our
+own predispositions",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97, Opinions masquerade as facts,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+98," The wildest conspiracy theories are taken
+for gospel",0.0,0.3333333333333333,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+99," Now, understand, I am sure you’ve learned
+during your years of college — and if not, you will learn soon — that there are a whole
+lot of folks who are book smart and have no common sense",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+100, That’s the truth,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+101, You’ll meet them if you haven’t already,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+102," So the fact that they’ve got a fancy degree
+— you got to talk to them to see whether they know what they’re talking about",0.0,0.0,0.16666666666666666,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0
+103," Qualities like kindness and compassion, honesty,
+hard work — they often matter more than technical skills or know-how",0.0,0.2,0.0,0.2,0.0,0.0,0.0,0.0
+104," But when our leaders express a disdain for
+facts, when they’re not held accountable for repeating falsehoods and just making stuff
+up, while actual experts are dismissed as elitists, then we’ve got a problem",0.09090909090909091,0.09090909090909091,0.0,0.18181818181818182,0.0,0.09090909090909091,0.0,0.09090909090909091
+105," You know, it’s interesting that if we get
+sick, we actually want to make sure the doctors have gone to medical school, they know what
+they’re talking about",0.0,0.1111111111111111,0.1111111111111111,0.2222222222222222,0.0,0.1111111111111111,0.0,0.1111111111111111
+106," If we get on a plane, we say we really want
+a pilot to be able to pilot the plane",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+107," And yet, in our public lives, we certainly
+think, “I don’t want somebody who’s done it before",0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0
+108,"” The rejection of facts, the rejection of reason
+and science — that is the path to decline",0.14285714285714285,0.14285714285714285,0.0,0.07142857142857142,0.0,0.14285714285714285,0.0,0.14285714285714285
+109," It calls to mind the words of Carl Sagan,
+who graduated high school here in New Jersey — he said: “We can judge our progress
+by the courage of our questions and the depths of our answers, our willingness to embrace
+what is true rather than what feels good",0.041666666666666664,0.0,0.16666666666666666,0.20833333333333334,0.08333333333333333,0.0,0.16666666666666666,0.0
+110,"” The debate around climate change is a perfect
+example of this",0.0,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.0,0.16666666666666666,0.0
+111," Now, I recognize it doesn’t feel like the
+planet is warmer right now",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+112, I understand,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113, There was hail when I landed in Newark,0.0,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+114, But think about the climate change issue,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+115," Every day, there are officials in high office
+with responsibilities who mock the overwhelming consensus of the world’s scientists that
+human activities and the release of carbon dioxide and methane and other substances are
+altering our climate in profound and dangerous ways",0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0
+116," A while back, you may have seen a United States
+senator trotted out a snowball during a floor speech in the middle of winter as “proof”
+that the world was not warming",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+117," I mean, listen, climate change is not something
+subject to political spin",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+118, There is evidence,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+119, There are facts,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+120, We can see it happening right now,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121," If we don’t act, if we don’t follow through
+on the progress we made in Paris, the progress we’ve been making here at home, your generation
+will feel the brunt of this catastrophe",0.1111111111111111,0.05555555555555555,0.1111111111111111,0.1111111111111111,0.05555555555555555,0.05555555555555555,0.1111111111111111,0.05555555555555555
+122," So it’s up to you to insist upon and shape
+an informed debate",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123," Imagine if Benjamin Franklin had seen that
+senator with the snowball, what he would think",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+124," Imagine if your 5th grade science teacher
+had seen that",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+125, He’d get a D,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+126," And he’s a senator! Look, I’m not suggesting that cold analysis
+and hard data are ultimately more important in life than passion, or faith, or love, or
+loyalty",0.0,0.0,0.17647058823529413,0.23529411764705882,0.0,0.0,0.17647058823529413,0.0
+127," I am suggesting that those highest expressions
+of our humanity can only flourish when our economy functions well, and proposed budgets
+add up, and our environment is protected",0.0,0.09090909090909091,0.09090909090909091,0.2727272727272727,0.09090909090909091,0.0,0.18181818181818182,0.0
+128," And to accomplish those things, to make collective
+decisions on behalf of a common good, we have to use our heads",0.0,0.0,0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.2857142857142857,0.0
+129, We have to agree that facts and evidence matter,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+130," And we got to hold our leaders and ourselves
+accountable to know what the heck they’re talking about",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+131, All right,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+132, I only have two more points,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133," I know it’s getting cold and you guys have
+to graduate",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+134, Point four: Have faith in democracy,0.0,0.0,0.2,0.2,0.0,0.0,0.2,0.0
+135," Look, I know it’s not always pretty",0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+136," Really, I know",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137, I’ve been living it,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+138," But it’s how, bit by bit, generation by
+generation, we have made progress in this nation",0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+139, That’s how we banned child labor,0.0,0.0,0.25,0.125,0.125,0.0,0.25,0.0
+140," That’s how we cleaned up our air and our
+water",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+141," That’s how we passed programs like Social
+Security and Medicare that lifted millions of seniors out of poverty",0.2,0.2,0.0,0.0,0.0,0.2,0.0,0.2
+142, None of these changes happened overnight,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+143," They didn’t happen because some charismatic
+leader got everybody suddenly to agree on everything",0.0,0.0,0.2,0.2,0.2,0.0,0.0,0.0
+144," It didn’t happen because some massive political
+revolution occurred",0.125,0.125,0.25,0.0,0.125,0.125,0.0,0.0
+145," It actually happened over the course of years
+of advocacy, and organizing, and alliance-building, and deal-making, and the changing of public
+opinion",0.14285714285714285,0.0,0.2857142857142857,0.14285714285714285,0.0,0.0,0.14285714285714285,0.0
+146," It happened because ordinary Americans who
+cared participated in the political process",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+147," AUDIENCE MEMBER: Because of you! Well, that’s nice",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+148," I mean, I helped, but —
+Look, if you want to change this country for the better, you better start participating",0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0
+149," I’ll give you an example on a lot of people’s
+minds right now — and that’s the growing inequality in our economy",0.2,0.2,0.0,0.2,0.0,0.2,0.0,0.0
+150," Over much of the last century, we’ve unleashed
+the strongest economic engine the world has ever seen, but over the past few decades,
+our economy has become more and more unequal",0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666,0.0,0.16666666666666666
+151," The top 10 percent of earners now take in
+half of all income in the U",0.0,0.0,0.2222222222222222,0.2222222222222222,0.0,0.1111111111111111,0.1111111111111111,0.0
+152,S,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+153," In the past, it used to be a top CEO made
+20 or 30 times the income of the average worker",0.0,0.0,0.2222222222222222,0.2222222222222222,0.0,0.1111111111111111,0.1111111111111111,0.0
+154," Today, it’s 300 times more",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155," And wages aren’t rising fast enough for
+millions of hardworking families",0.0,0.0,0.2,0.0,0.0,0.0,0.4,0.0
+156," Now, if we want to reverse those trends, there
+are a bunch of policies that would make a real difference",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+157, We can raise the minimum wage,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+158, We can modernize our infrastructure,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+159, We can invest in early childhood education,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+160, We can make college more affordable,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+161," We can close tax loopholes on hedge fund managers
+and take that money and give tax breaks to help families with child care or retirement",0.05,0.05,0.15,0.1,0.05,0.15,0.15,0.0
+162," And if we did these things, then we’d help
+to restore the sense that hard work is rewarded and we could build an economy that truly works
+for everybody",0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+163," Now, the reason some of these things have
+not happened, even though the majority of people approve of them, is really simple",0.0,0.0,0.0,0.2857142857142857,0.0,0.0,0.2857142857142857,0.0
+164, It’s not because I wasn’t proposing them,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165," It wasn’t because the facts and the evidence
+showed they wouldn’t work",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+166," It was because a huge chunk of Americans,
+especially young people, do not vote",0.08333333333333333,0.0,0.16666666666666666,0.08333333333333333,0.16666666666666666,0.08333333333333333,0.16666666666666666,0.0
+167," In 2014, voter turnout was the lowest since
+World War II",0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+168," Fewer than one in five young people showed
+up to vote — 2014",0.08333333333333333,0.0,0.16666666666666666,0.08333333333333333,0.16666666666666666,0.08333333333333333,0.16666666666666666,0.0
+169," And the four who stayed home determined the
+course of this country just as much as the single one who voted",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+170, Because apathy has consequences,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0
+171, It determines who our Congress is,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172, It determines what policies they prioritize,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+173," It even, for example, determines whether a
+really highly qualified Supreme Court nominee receives the courtesy of a hearing and a vote
+in the United States Senate",0.07692307692307693,0.07692307692307693,0.07692307692307693,0.15384615384615385,0.07692307692307693,0.07692307692307693,0.07692307692307693,0.0
+174," And, yes, big money in politics is a huge
+problem",0.2,0.1,0.1,0.1,0.1,0.1,0.1,0.0
+175, We’ve got to reduce its influence,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+176," Yes, special interests and lobbyists have
+disproportionate access to the corridors of power",0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0
+177," But, contrary to what we hear sometimes from
+both the left as well as the right, the system isn’t as rigged as you think, and it certainly
+is not as hopeless as you think",0.0,0.2,0.0,0.2,0.0,0.2,0.0,0.0
+178," Politicians care about being elected, and
+they especially care about being reelected",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+179," And if you vote and you elect a majority that
+represents your views, you will get what you want",0.07692307692307693,0.0,0.07692307692307693,0.23076923076923078,0.07692307692307693,0.07692307692307693,0.15384615384615385,0.0
+180," And if you opt out, or stop paying attention,
+you won’t",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+181, It’s that simple,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+182, It’s not that complicated,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+183," Now, one of the reasons that people don’t
+vote is because they don’t see the changes they were looking for right away",0.08333333333333333,0.0,0.08333333333333333,0.25,0.08333333333333333,0.08333333333333333,0.08333333333333333,0.0
+184," Well, guess what — none of the great strides
+in our history happened right away",0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+185," It took Thurgood Marshall and the NAACP decades
+to win Brown vs",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+186," Board of Education; and then another decade after that to secure the Civil
+Rights Act and the Voting Rights Act",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+187," And it took more time after that for it to
+start working",0.0,0.0,0.6666666666666666,0.0,0.0,0.0,0.0,0.0
+188," It took a proud daughter of New Jersey, Alice
+Paul, years of organizing marches and hunger strikes and protests, and drafting hundreds
+of pieces of legislation, and writing letters and giving speeches, and working with congressional
+leaders before she and other suffragettes finally helped win women the right to vote",0.045454545454545456,0.0,0.13636363636363635,0.13636363636363635,0.09090909090909091,0.045454545454545456,0.18181818181818182,0.045454545454545456
+189, Each stage along the way required compromise,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+190, Sometimes you took half a loaf,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191, You forged allies,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+192," Sometimes you lost on an issue, and then you
+came back to fight another day",0.2,0.2,0.0,0.0,0.0,0.2,0.0,0.0
+193, That’s how democracy works,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+194," So you’ve got to be committed to participating
+not just if you get immediate gratification, but you got to be a citizen full-time, all
+the time",0.0,0.0,0.25,0.25,0.0,0.0,0.0,0.0
+195," And if participation means voting, and it
+means compromise, and organizing and advocacy, it also means listening to those who don’t
+agree with you",0.1111111111111111,0.0,0.1111111111111111,0.2222222222222222,0.0,0.0,0.1111111111111111,0.0
+196," I know a couple years ago, folks on this campus
+got upset that Condoleezza Rice was supposed to speak at a commencement",0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+197," Now, I don’t think it’s a secret that
+I disagree with many of the foreign policies of Dr",0.16666666666666666,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+198, Rice and the previous administration,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+199," But the notion that this community or the
+country would be better served by not hearing from a former Secretary of State, or shutting
+out what she had to say — I believe that’s misguided",0.0,0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.16666666666666666
+200," I don’t think that’s how democracy works
+best, when we’re not even willing to listen to each other",0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+201, I believe that’s misguided,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5
+202," If you disagree with somebody, bring them
+in — and ask them tough questions",0.25,0.0,0.0,0.0,0.0,0.25,0.0,0.0
+203, Hold their feet to the fire,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+204, Make them defend their positions,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+205," If somebody has got a bad or offensive idea,
+prove it wrong",0.2,0.1,0.0,0.0,0.0,0.1,0.0,0.2
+206, Engage it,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+207, Debate it,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+208, Stand up for what you believe in,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+209, Don’t be scared to take somebody on,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+210," Don’t feel like you got to shut your ears
+off because you’re too fragile and somebody might offend your sensibilities",0.16666666666666666,0.16666666666666666,0.0,0.0,0.0,0.16666666666666666,0.0,0.16666666666666666
+211, Go at them if they’re not making any sense,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+212, Use your logic and reason and words,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+213," And by doing so, you’ll strengthen your
+own position, and you’ll hone your arguments",0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+214," And maybe you’ll learn something and realize
+you don’t know everything",0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0
+215," And you may have a new understanding not only
+about what your opponents believe but maybe what you believe",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+216," Either way, you win",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+217," And more importantly, our democracy wins",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+218," So, anyway, all right",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+219," That’s it, Class of 2016 — a few suggestions
+on how you can change the world",0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+220, Except maybe I’ve got one last suggestion,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+221, Just one,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+222," And that is, gear yourself for the long haul",0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+223," Whatever path you choose — business, nonprofits,
+government, education, health care, the arts — whatever it is, you’re going to have
+some setbacks",0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0
+224, You will deal occasionally with foolish people,0.0,0.0,0.16666666666666666,0.16666666666666666,0.16666666666666666,0.0,0.16666666666666666,0.0
+225, You will be frustrated,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+226, You’ll have a boss that’s not great,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+227," You won’t always get everything you want
+— at least not as fast as you want it",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+228, So you have to stick with it,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+229, You have to be persistent,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+230," And success, however small, however incomplete,
+success is still success",0.0,0.0,0.3,0.0,0.0,0.0,0.3,0.0
+231," I always tell my daughters, you know, better
+is good",0.0,0.0,0.2,0.2,0.2,0.0,0.2,0.0
+232," It may not be perfect, it may not be great,
+but it’s good",0.0,0.0,0.2222222222222222,0.2222222222222222,0.1111111111111111,0.0,0.2222222222222222,0.0
+233," That’s how progress happens — in societies
+and in our own lives",0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.3333333333333333,0.0
+234," So don’t lose hope if sometimes you hit
+a roadblock",0.13333333333333333,0.06666666666666667,0.06666666666666667,0.13333333333333333,0.13333333333333333,0.06666666666666667,0.06666666666666667,0.06666666666666667
+235, Don’t lose hope in the face of naysayers,0.09090909090909091,0.09090909090909091,0.09090909090909091,0.09090909090909091,0.18181818181818182,0.09090909090909091,0.09090909090909091,0.09090909090909091
+236," And certainly don’t let resistance make
+you cynical",0.25,0.0,0.0,0.25,0.0,0.0,0.0,0.0
+237," Cynicism is so easy, and cynics don’t accomplish
+much",0.0,0.0,0.0,0.25,0.0,0.0,0.25,0.0
+238," As a friend of mine who happens to be from
+New Jersey, a guy named Bruce Springsteen, once sang — “they spend their lives waiting
+for a moment that just don’t come",0.0,0.0,0.0,0.4,0.0,0.0,0.2,0.0
+239,” Don’t let that be you,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+240, Don’t waste your time waiting,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,0.0,0.3333333333333333
+241," If you doubt you can make a difference, look
+at the impact some of your fellow graduates are already making",0.0,0.16666666666666666,0.0,0.3333333333333333,0.0,0.16666666666666666,0.0,0.0
+242, Look at what Matthew is doing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+243," Look at somebody like Yasmin Ramadan, who
+began organizing anti-bullying assemblies when she was 10 years old to help kids handle
+bias and discrimination, and here at Rutgers, helped found the Muslim Public Relations Council
+to work with administrators and police to promote inclusion",0.14285714285714285,0.14285714285714285,0.0,0.21428571428571427,0.0,0.07142857142857142,0.07142857142857142,0.07142857142857142
+244," Look at somebody like Madison Little, who
+grew up dealing with some health issues, and started wondering what his care would have
+been like if he lived someplace else, and so, here at Rutgers, he took charge of a student
+nonprofit and worked with folks in Australia and Cambodia and Uganda to address the AIDS
+epidemic",0.14285714285714285,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285,0.14285714285714285,0.0,0.14285714285714285
+245," “Our generation has so much energy to adapt
+and impact the world,” he said",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+246," “My peers give me a lot of hope that we’ll
+overcome the obstacles we face in society",0.0,0.0,0.2,0.2,0.2,0.0,0.2,0.0
+247,"” That’s you! Is it any wonder that I am optimistic? Throughout our history, a new generation of
+Americans has reached up and bent the arc of history in the direction of more freedom,
+and more opportunity, and more justice",0.0,0.0,0.14285714285714285,0.2857142857142857,0.0,0.0,0.14285714285714285,0.0
+248," And, Class of 2016, it is your turn now — to
+shape our nation’s destiny, as well as your own",0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0
+249, So get to work,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+250," Make sure the next 250 years are better than
+the last",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+251, Good luck,0.0,0.0,0.25,0.0,0.25,0.0,0.25,0.0
+252, God bless you,0.0,0.0,0.25,0.25,0.0,0.0,0.25,0.0
+253, God bless this country we love,0.0,0.0,0.16666666666666666,0.16666666666666666,0.0,0.0,0.3333333333333333,0.0
+254, Thank you,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+255,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
